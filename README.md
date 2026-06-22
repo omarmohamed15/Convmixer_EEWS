@@ -49,8 +49,8 @@ ConvMixer-EEWS/
 
 | File / Folder | Description |
 |---------------|-------------|
-| `data/` | Example seismic data used for evaluation |
-| `pretrained_models/` | Pretrained ConvMixer models |
+| `data/` | Example seismic data used for evaluation (https://drive.google.com/file/d/1WzAbybDKtkvve_uj1CnAqEZ0j3MG_w-K/view?usp=drive_link) |
+| `pretrained_models/` | Pretrained ConvMixer models (https://drive.google.com/file/d/12NSes6dC-DeBzpDoncOYd1pDqkleCqBn/view?usp=drive_link) |
 | `STEAD-EEWS ConvMixer_test.ipynb` | Evaluation notebook for the STEAD dataset |
 | `Instance-EEWS ConvMixer_test.ipynb` | Evaluation notebook for the INSTANCE dataset |
 | `Texas-EEWS ConvMixer_test.ipynb` | Evaluation notebook for the TXED dataset |
